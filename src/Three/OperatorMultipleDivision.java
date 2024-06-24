@@ -1,3 +1,5 @@
+package Three;
+
 public class OperatorMultipleDivision {
     public static void main(String[] args) {
         OperatorMultipleDivision sample = new OperatorMultipleDivision();

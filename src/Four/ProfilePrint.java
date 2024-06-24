@@ -1,3 +1,5 @@
+package Four;
+
 public class ProfilePrint {
     byte age;
     String name;

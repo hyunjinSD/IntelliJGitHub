@@ -1,3 +1,5 @@
+package Four;
+
 public class PrimitiveTypesSecond {
     int intDefault1;
     byte byteDefault;

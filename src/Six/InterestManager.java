@@ -1,3 +1,5 @@
+package Six;
+
 public class InterestManager {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package Three;
+
 public class OperatorCompound {
     public static void main(String[] args) {
         OperatorCompound sample = new OperatorCompound();
