@@ -1,4 +1,4 @@
-package Fifteen;
+package Fourteen;
 
 public class MultiCatchSample {
     public static void main(String []args) {
