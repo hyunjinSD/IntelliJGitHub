@@ -1,6 +1,6 @@
 package Study;
 
-public class Study {
+public class SwitchStudy {
     public static void main(String[] args) {
         int i = 3;
         switch (i) {
