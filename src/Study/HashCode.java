@@ -5,9 +5,9 @@ public class HashCode {
         Person person1 = new Person("Kim");
         Person person2 = new Person(new String("Kim"));
         Person person3 = person2;
-        System.out.println(person1.hashCode());
-        System.out.println(person2.hashCode());
-        System.out.println(person3.hashCode());
+        System.out.println(person1.hashCode()); //295530567
+        System.out.println(person2.hashCode()); //2003749087
+        System.out.println(person3.hashCode()); //2003749087
     }
 }
 
