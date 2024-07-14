@@ -9,7 +9,6 @@ public class ArrayExam {
         return array;
     }
 
-    // 아래는 실행을 위한 코드입니다. 수정하지 마세요.
     public static void main(String[] args) {
         ArrayExam exam = new ArrayExam();
         int[] arr2 = exam.fill100();
