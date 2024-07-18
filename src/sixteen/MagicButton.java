@@ -12,7 +12,7 @@ public class MagicButton {
     }
     public void onClickProcess() {
         if(listener!=null) {
-            listener.onClick();
+
         }
     }
 }
