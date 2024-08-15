@@ -1,4 +1,4 @@
-package study.lotto;
+package study;
 
 import java.util.Calendar;
 
